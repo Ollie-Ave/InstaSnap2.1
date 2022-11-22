@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="sidebar">
+    <a class="menu-item active" asp-page="/Index">
+        <span><i class="bi bi-house"></i></span> <h3>Home</h3>
+    </a>
+    <a class="menu-item">
+        <span><i class="bi bi-compass"></i></span> <h3>Explore</h3>
+    </a>
+    <a class="menu-item" id="notification">
+        <span><i class="bi bi-bell"><small class="notification-count">2</small></i></span> <h3>Notifications</h3>
+
+        <div class="notification-popup">
+            <div>
+                <div class="profile-photo">
+                    <img src="~/Img/ProfilePictures/profile-1.jpg" />
+                </div>
+                <div class="nofification-body">
+                    <b>Keke Benjamin</b> accepted your friend request
+                    <small class="text-muted">2 days ago</small>
+                </div>
+
+            </div>
+
+            <div>
+                <div class="profile-photo">
+                    <img src="~/Img/ProfilePictures/profile-1.jpg" />
+                </div>
+                <div class="nofification-body">
+                    <b>Keke Benjamin</b> accepted your friend request
+                    <small class="text-muted">2 days ago</small>
+                </div>
+
+            </div>
+
+        </div>
+    </a>
+    <a class="menu-item" id="messages-notifications">
+        <span><i class="bi bi-envelope"><small class="notification-count">2</small></i></span> <h3>Messages</h3>
+    </a>
+    <a class="menu-item">
+        <span><i class="bi bi-bookmark"></i></span> <h3>Bookmarks</h3>
+    </a>
+    <a class="menu-item" asp-page="/Settings/PersonalDetails">
+        <span><i class="bi bi-gear"></i></span> <h3>Settings</h3>
+    </a>
+</div>

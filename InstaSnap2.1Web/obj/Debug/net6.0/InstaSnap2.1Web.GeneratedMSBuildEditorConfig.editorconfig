@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InstaSnap2._1Web
+build_property.RootNamespace = InstaSnap2._1Web
+build_property.ProjectDir = C:\Users\olive\source\repos\InstaSnap2.1\InstaSnap2.1Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\olive\source\repos\InstaSnap2.1\InstaSnap2.1Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/App/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/App/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_EditPersonalDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FZGl0UGVyc29uYWxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_Feeds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GZWVkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_FriendRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GcmllbmRSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZXNzYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_ProfileImg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9maWxlSW1nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_SettingsSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXR0aW5nc1NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_Stories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdG9yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_ThemeCustomisation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UaGVtZUN1c3RvbWlzYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olive/source/repos/InstaSnap2.1/InstaSnap2.1Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-aaxuf1428n

@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model InstaSnapWeb.Data.Models.CredentialModel
+
+<div class="container">
+    <div class="left">
+        <partial name="_Profile" />
+
+        <partial name="_Sidebar" />
+        <label class="btn btn-primary" for="create-post">Create Post</label>
+    </div>
+
+
+    <div class="middle">
+        <partial name="_Stories" />
+
+        <form class="create-post">
+            <div class="profile-photo">
+                <img src="~/Img/ProfilePictures/profile-1.jpg" />
+            </div>
+            <input type="text" placeholder="Whats on your mind, Dianna?" id="create-post" />
+            <input type="submit" value="Post" class="btn btn-primary" />
+        </form>
+
+
+        <partial name="_Feeds" />
+    </div>
+
+    <div class="right">
+        <partial name="_Messages" />
+
+        <partial name="_FriendRequests" />
+    </div>
+</div>
+
+<script src="~/js/index.js"></script>

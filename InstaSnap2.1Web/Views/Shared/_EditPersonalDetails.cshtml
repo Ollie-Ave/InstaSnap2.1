@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="edit-details">
+    <form class="update-text-form">
+        <div class="form-item">
+            <label>Handle</label>
+            <input type="text" value="@@Myri"/>
+        </div>
+
+        <div class="form-item">
+            <label>First Name</label>
+            <input type="text" value="Myri" />
+        </div>
+
+        <div class="form-item">
+            <label>Last Name</label>
+            <input type="text" value="Tsui" />
+        </div>
+
+        <div class="form-item bio">
+            <label>Bio</label>
+            <small class="text-muted">Make it short & sweet</small>
+            <input type="text" value="Hi, my name is Diana. I love birds, flowers and hard rock!" />
+        </div>
+
+        <input class="btn btn-primary" type="submit" value="Update Changes" style="margin-top:0.5rem;" />
+    </form>
+</div>
+<div class="edit-picture">
+    <h2>Edit/Update Profile Photo</h2>
+    <hr />
+
+    <form class="update-photo">
+        <div class="profile-photo">
+            <img src="~/Img/ProfilePictures/profile-1.jpg" />
+        </div>
+
+        <div class="form-item">
+            <h3>Drag the new image here!</h3>
+            <small class="text-muted">Your current profile photo is displayed on the left</small>
+            <input type="file" />
+        </div>
+        <input class="btn btn-primary" type="submit" value="Update Changes"  />
+    </form>
+</div>
